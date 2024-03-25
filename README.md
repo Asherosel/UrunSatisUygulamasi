@@ -4,9 +4,9 @@
 
 Aşağıdaki 3 hesaptan birisi ile giriş yapabilirsiniz.
 
-Personel Numarası: 240011001 / Şifre: Şifre1
-Personel Numarası: 240011002 / Şifre: Şifre2
-Personel Numarası: 240011003 / Şifre: Şifre3
+Personel Numaraları: 240011001 / 240011002 / 240011003
+
+Şifreler: Şifre1 / Şifre2 / Şifre3
 
 ![image](https://github.com/Asherosel/UrunSatisUygulamasi/assets/76102613/68b96b28-7a5c-426f-935c-708d8b5f172b)
 
